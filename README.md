@@ -1,7 +1,27 @@
 # Dashboard
-Proyecto para generar un sistema Dashboard
-NOTA IMPORTANTE:
-Este proyecto lo puedes usar, este proyecto fue generado con un template bootstrap 4. 
-Si el proyecto es para clientes o venta, debes adquirir el template en https://www.wrappixel.com/demos/admin-templates/admin-pro/landingpage/
-Apoyemos a las personas y empresas que nos ayudan a generar nuestros proyectos de una forma mas fácil y rapida.
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.1.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
